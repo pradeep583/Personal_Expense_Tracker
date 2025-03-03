@@ -7,7 +7,7 @@ This C++ console-based application helps users track, manage, and analyze expens
 - Edit & Delete Entries – Modify or remove existing records
 - Budget Management – Set budget limits and track overspending
 
-#Future Enhancements
+# Future Enhancements
 - Graphical UI (Using Qt or a GUI framework)
 - Database Integration (SQLite instead of file handling)
 - Advanced Analytics (Spending trends, saving goals)
